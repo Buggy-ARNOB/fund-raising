@@ -3,9 +3,11 @@ body {
   margin: 0;
 }
 
+
 p {
   font-size: 20px;
 }
+
 
 a {
   text-decoration: none;
@@ -15,21 +17,23 @@ a {
   color: white;
 }
 
+
+
 .btn {
   margin-top: 40px;
 }
+
 
 .donate-now {
   margin-top: 50px;
 }
 
+
 h1 {
   font-size: 65px;
 }
 
-.fund-raiser {
-  text-align: center;
-}
+
 
 .fund-raiser {
   color: white;
@@ -39,6 +43,7 @@ h1 {
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
+
 
 .amount {
   padding: 20px 20px 15px 20px;
@@ -50,15 +55,19 @@ h1 {
   font-weight: bolder;
 }
 
+
 .donation-amount {
   display: flex;
   justify-content: center;
 }
 
+
+
 .form {
   text-align: center;
   margin-top: 50px;
 }
+
 
 .other {
   text-decoration: none;
@@ -67,19 +76,26 @@ h1 {
   border-bottom: 1px solid grey;
 }
 
+
+
 input {
   outline: none;
   border-style: hidden;
 }
+
+
 
 input::placeholder {
   text-align: center;
   font-size: 14px;
 }
 
+
+
 .center {
   text-align: center;
 }
+
 
 #red {
   background: #f8caca;
@@ -87,32 +103,42 @@ input::placeholder {
   border: 2px solid red;
 }
 
+
 .margin-top {
   margin-top: 80px;
 }
+
+
 
 h2 {
   font-size: 35px;
   font-weight: bolder;
 }
 
+
+
 .plan {
   display: flex;
   text-align: left;
 }
+
+
 
 .first {
   background-color: #89b5b975;
 
 }
 
+
 .second {
   background-color: #8f3b3b1a
 }
 
+
 .third {
   background-color: rgba(161, 161, 120, 0.411);
 }
+
 
 .procedure {
   margin-left: 40px;
@@ -120,6 +146,7 @@ h2 {
   padding: 10px 25px 40px 25px;
   border-radius: 10px;
   box-shadow: 10px 7px 70px gray;
+
 
 }
 
@@ -130,11 +157,14 @@ h2 {
 }
 
 
+
 #subs {
+  border: none;
   background-color: tomato;
   padding: 15px 20px;
   border-radius: 4px;
   color: white;
+  margin-top: 22px;
 }
 
 
@@ -148,16 +178,19 @@ h2 {
   margin-left: 33%;
 }
 
+
 .hotline {
   margin: 22px;
   padding: 15px;
 }
+
 
 footer {
   padding: 40px;
   background-color: black;
   color: antiquewhite;
 }
+
 
 .member {
 
@@ -169,6 +202,7 @@ footer {
 
 }
 
+
 .executive {
     {
     width: 50px;
@@ -176,6 +210,8 @@ footer {
     padding: 30px 10px;
   }
 }
+
+
 
 img {
   border-radius: 50%;
