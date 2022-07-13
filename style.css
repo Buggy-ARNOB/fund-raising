@@ -119,6 +119,7 @@ h2 {
   margin-right: 30px;
   padding: 10px 25px 40px 25px;
   border-radius: 10px;
+  box-shadow: 10px 7px 70px gray;
 
 }
 
@@ -133,13 +134,23 @@ h2 {
   background-color: tomato;
   padding: 15px 20px;
   border-radius: 4px;
+  color: white;
 }
+
+
 
 .submition {
 
   display: flex;
-  background-color: #AA9F9F;
-  margin: 10px 0px 20px 70px;
+  background-color: #FFF4D6;
+  width: 30%;
+  padding: 20px 40px;
+  margin-left: 33%;
+}
+
+.hotline {
+  margin: 22px;
+  padding: 15px;
 }
 
 footer {
@@ -154,7 +165,7 @@ footer {
   margin-right: 20px;
   padding: 30px 20px 40px 20px;
   border-radius: 10px;
-
+  box-shadow: 5px 5px 40px gray;
 
 }
 
@@ -168,9 +179,4 @@ footer {
 
 img {
   border-radius: 50%;
-}
-
-.hotline {
-  margin: 22px;
-  padding: 15px;
 }
